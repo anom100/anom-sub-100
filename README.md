@@ -37,7 +37,7 @@ A comprehensive benchmarking suite for evaluating LLM inference performance unde
   - Comprehensive metrics collection (latency, throughput, token generation rates)
   - Streaming and non-streaming API support
 
-### �� **`rca-benchmark/`** - Root Cause Analysis Evaluation Suite
+### 🔬 **`rca-benchmark/`** - Root Cause Analysis Evaluation Suite
 An enhanced version of RCAEval specifically adapted for LLM inference systems, featuring 20+ RCA algorithms and custom LLM telemetry datasets.
 
 - **RCA Methods Evaluated:**
